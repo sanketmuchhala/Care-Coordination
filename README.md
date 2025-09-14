@@ -10,6 +10,14 @@ insights into the healthcare system differences between rural and
 urban regions using the plethora of information available through
 CMS and other government datasets. 
 
+Screenshots:
+<img width="1680" height="1050" alt="Screenshot 2025-09-14 at 2 01 28 AM" src="https://github.com/user-attachments/assets/9aa5422d-b55d-4544-9f9a-2986eedd4b7d" />
+<img width="1680" height="1050" alt="Screenshot 2025-09-14 at 2 01 21 AM" src="https://github.com/user-attachments/assets/605ddb5a-5040-415d-aaed-a333ead1142b" />
+<img width="1680" height="1050" alt="Screenshot 2025-09-14 at 2 01 15 AM" src="https://github.com/user-attachments/assets/1cfdd11a-236f-43c4-9e6f-299a97ab173c" />
+<img width="1680" height="1050" alt="Screenshot 2025-09-14 at 1 54 47 AM" src="https://github.com/user-attachments/assets/0b413784-7159-4cf9-b690-d61a66fa7210" />
+
+
+
 # Team Members
 
 Dhananjay Srivastava
